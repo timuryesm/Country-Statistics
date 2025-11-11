@@ -76,7 +76,7 @@ DataGraphInsight/
 
 This project is distributed for educational and non-commercial use under the MIT License.
 
-⸻
+---
 
 🧾 In Summary
 
